@@ -1,0 +1,34 @@
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\Micaela Dimacali ACT 1C.exe
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\Micaela Dimacali ACT 1C.deps.json
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\Micaela Dimacali ACT 1C.runtimeconfig.json
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\Micaela Dimacali ACT 1C.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\Micaela Dimacali ACT 1C.pdb
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela_Dimacali_ACT_1C.Form1.resources
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela_Dimacali_ACT_1C.Properties.Resources.resources
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela Dimacali ACT 1C.csproj.GenerateResource.cache
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela Dimacali ACT 1C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela Dimacali ACT 1C.AssemblyInfoInputs.cache
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela Dimacali ACT 1C.AssemblyInfo.cs
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela Dimacali ACT 1C.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela Dimacali ACT 1C.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\refint\Micaela Dimacali ACT 1C.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela Dimacali ACT 1C.pdb
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela Dimacali ACT 1C.genruntimeconfig.cache
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\ref\Micaela Dimacali ACT 1C.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela Dimacali ACT 1C.csproj.AssemblyReference.cache
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\NuGet.Frameworks.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela .A624CDCB.Up2Date
+C:\Users\STUDENT.CL2-PC32\source\repos\Micaela Dimacali ACT 1C\Micaela Dimacali ACT 1C\obj\Debug\net8.0-windows\Micaela_Dimacali_ACT_1C.admin.resources
